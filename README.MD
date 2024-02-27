@@ -15,6 +15,9 @@ reduce scripts in the actual UI and organize your workflow also adds some macros
 ```
 These are all the current macros that are in the module. May be updated later but idk.
 
+> [!WARNING]
+The module listed is not supported for severs THIS IS ONLY CLIENT SIDE
+
 **Button**
 
 The directory to the button that you may be using
